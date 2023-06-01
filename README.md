@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React framework and node.js**
 
-- 👨‍💻 All of my projects are available at [https://davidQ.dev](https://davidQ.dev)
+- 👨‍💻 All of my projects are available at [https://davitodev.software](https://davitodev.software)
 
-- 📝 I regularly write articles on [https://davidQ.dev](https://davidQ.dev)
+- 📝 I regularly write articles on [https://davitodev.software](https://davitodev.software)
 
 - 💬 Ask me about **react, vue, express, SQL, sass, etc...**
 
