@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidquinter" alt="davidquinter" /></a> </p>
 
-- 🔭 I’m currently working on [DDR web page](https://github.com/DavidQuinter/DDR_landing)
+- 🔭 I’m currently working on DDR Tech solutions
 
 - 🌱 I’m currently learning **React framework and node.js**
 
